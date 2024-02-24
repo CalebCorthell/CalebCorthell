@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebCorthell
 - 👀 I’m interested in Reverse Engineering and Penetration Testing
-- 📫 How to reach me c.backercorthell@udc.edu
+- 📫 How to reach me caleb.backercorthell@udc.edu
 - ⚡ Fun fact: I love board games, Sci-Fi novels and 90s Law movies
 
 <!---
